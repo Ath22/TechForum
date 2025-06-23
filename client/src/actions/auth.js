@@ -51,15 +51,3 @@ export const verifylogin = (authData, navigate)=>async (dispatch)=>{
 
 
 
-// {
-//     "result": {
-//         "_id": "637b69167902547095aa138a",
-//         "name": "arun",
-//         "email": "arun47@gmail.com",
-//         "number": "1234567",
-//         "tags": [],
-//         "joinedOn": "2022-11-21T12:03:34.714Z",
-//         "__v": 0
-//     },
-//     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzdiNjkxNjc5MDI1NDcwOTVhYTEzOGEiLCJudW1iZXIiOiIxMjM0NTY3IiwiaWF0IjoxNjY5MDM4MjUzLCJleHAiOjE2NjkwNDE4NTN9.fqXx34-XM9SOCAEhHYHdiFUgzExM9u6-P2V9y74n4vk"
-// }
